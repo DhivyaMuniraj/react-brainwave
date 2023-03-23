@@ -1,0 +1,65 @@
+body{
+  margin: 0%;
+}
+.light{
+  background: white;
+  height:100vh;
+  padding-top: 7px;
+}
+.dark{
+  background: black;
+  height:100vh;
+  padding-top: 7px;
+}
+.home-div{
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+  margin-top: 70px;
+  height:150px;
+  width:500px;
+  background-color: brown;
+}
+.login-div{
+  text-align: center;
+  margin: auto;
+  margin-top: 70px;
+  height:400px;
+  width:500px;
+  background-color: brown;
+}
+.register-div{
+  text-align: center;
+  margin: auto;
+  margin-top: 70px;
+  height:450px;
+  width:500px;
+  background-color: brown;
+}
+.bright{
+  padding: 10px;
+  width: fit-content;
+  color:black;
+  background-color: white;
+  border:1px solid black
+  
+}
+.darkness{
+  padding: 10px;
+  width:fit-content;
+  color:white;
+  background-color: rgba(255, 255, 255, 0.212);
+  border:1px solid black
+ 
+}
+.button-div{
+  margin-top: 40px;
+}
+button{
+  height:40px;
+  width:400px;
+ margin:10px;
+}
+input{
+  margin-top: 40px;
+}
